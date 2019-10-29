@@ -1,0 +1,1 @@
+vins-mono-ros-version
